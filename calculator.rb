@@ -1,4 +1,6 @@
-puts "digite um numero ou um operador matematico:"
+/* This is a calculator program */
+
+puts "Type a number or a mathematical operator ( "+" / "-" / "*" / "/" ):"
 digits = []
 
 while (line = gets)	
@@ -22,7 +24,6 @@ while (line = gets)
 
 	puts result
 	digits << result
-
 
 	end
 end
