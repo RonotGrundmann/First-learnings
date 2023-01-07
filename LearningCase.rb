@@ -12,7 +12,7 @@ def meter_to(unity, meters)
 	when "inch"
 		(meters * 100) / 2.54
 	when "foot" 
-		meters / 0.3048					# um pe corresponde a 0.3048 metro
+		meters / 0.3048					
 	else
 		"unknown unit"
 	end
