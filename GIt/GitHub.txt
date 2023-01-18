@@ -1,0 +1,10 @@
+GIT
+
+First, a Version control is a system that records changes to a file or set of files over time so that one can recall specific versions later. 
+
+Local version control system: Mantain the version of a file into the memory of a single machine.
+Centralized version control systems: Uses a server to store the tracks, in wich a bunch of users can acess the records and files.
+Distributed version control systems: Uses a bunch of collaborational servers wich store the records, snaps, files and commits. 
+
+
+Git is a Version Control System (VCS), based in distributed server.
