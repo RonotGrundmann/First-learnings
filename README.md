@@ -17,4 +17,4 @@ I'm basing this directory on the Back-end Roadmap found in https://roadmap.sh/ba
 
 Things to learn before to take my first job: CRUD, Filters, Data base relations, Negotiation rules and Report.
 
-Hello Odin!
+Hello Odin! I'm using now the Odin Project branche. Check this out!
