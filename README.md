@@ -6,7 +6,7 @@ I'm also planning to learn GIT/GITHUB features and data base in SQL after a whil
 So, that's the five step basics learning program to back-end development I'm taking on account now:
 
  1 - Programming logic;
- 2 - Programming language (Ruby), focusing on Object Orientation;
+ 2 - Programming language (Ruby, Object Oriented);
  3 - Framework (Rails);
  4 - GIT/GITHUB;
  5 - Data Base (PostgreSQL, mySQL);
@@ -15,4 +15,6 @@ Besides, I'm also taking a typing course to improve my speed at this. I'm lookin
 
 I'm basing this directory on the Back-end Roadmap found in https://roadmap.sh/backend/ , wich I think is a good basis to get along.
 
-Things to learn before to take my first employ: CRUD, Filters, Data base relations, Negotiation rules and Report.
+Things to learn before to take my first job: CRUD, Filters, Data base relations, Negotiation rules and Report.
+
+Hello Odin!
