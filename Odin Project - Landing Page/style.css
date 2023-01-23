@@ -1,0 +1,25 @@
+body{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+.heading {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.heading .menu {
+    flex: 0.5;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu a {
+    color: white;
+    font-size: 20px;
+}
