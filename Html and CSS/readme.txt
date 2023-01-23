@@ -1,0 +1,1 @@
+This is a generic page created to contain main the HTML and CSS contents. 

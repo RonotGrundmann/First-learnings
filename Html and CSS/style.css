@@ -1,0 +1,17 @@
+* {
+    background-color:blanchedalmond;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    color: green;
+}
+
+.header p, .header strong, .header em {
+    color: blue;
+}
+
+*:table {
+    border-bottom: 1px solid black;
+  }

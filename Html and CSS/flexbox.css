@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu-container {
+    color: #fff;
+    background-color: #5995DA;  /* Blue */
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    border: 1px solid #fff;  /* For debugging */
+    width: 900px;   
+    display: flex;
+    justify-content: space-around;
+}
+
+.access {
+    display: flex;
+    justify-content: space-around;
+}       
+ .acess-item {
+    border: 1px solid black;
+    justify-content: space-around;
+ }
