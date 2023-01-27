@@ -12,7 +12,7 @@ I divided the back end development learning path in these 5 general breaks:
 
 Besides, I'm also taking a typing course.
 
-This learnir program is based on the Back-end Roadmap found in https://roadmap.sh/backend/ . Hello Odin! Taking a look on The Odin Project, it's awesome!
+This learning program is based on the Back-end Roadmap found in https://roadmap.sh/backend/ . Hello Odin! Taking a look on The Odin Project, it's awesome!
 
 Some important things to learn alongside: CRUD, Filters, Data base relations, Negotiation rules and Report.
 
